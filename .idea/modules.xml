@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/gateway/boot-camp-gateway.iml" filepath="$PROJECT_DIR$/gateway/boot-camp-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/coffee-delivery.iml" filepath="$PROJECT_DIR$/.idea/coffee-delivery.iml" />
       <module fileurl="file://$PROJECT_DIR$/coffeeapp/coffeeapp.iml" filepath="$PROJECT_DIR$/coffeeapp/coffeeapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay/pay.iml" filepath="$PROJECT_DIR$/pay/pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store/store.iml" filepath="$PROJECT_DIR$/store/store.iml" />
     </modules>
   </component>
 </project>

@@ -25,8 +25,8 @@ public class Order {
 
         coffeedelivery.external.PaymentHistory paymentHistory = new coffeedelivery.external.PaymentHistory();
         // mappings goes here
-        Application.applicationContext.getBean(coffeedelivery.external.PaymentHistoryService.class)
-            .결제(paymentHistory);
+        Application.applicationContext.getBean(coffeedelivery.external.PaymentHistoryService.class);
+        /*    .결제(paymentHistory);*/
 
 
         OrderCanceled orderCanceled = new OrderCanceled();
